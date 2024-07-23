@@ -1,0 +1,39 @@
+.box{
+   
+    height:100vh;
+   
+    white-space: nowrap;
+
+}
+.box_element{
+    height:150px;
+    width:100px;
+    display:inline-block;
+    background-color:#eeeff2;
+
+ 
+    border-left: 10px #D0D0FF dotted;
+    margin:10px;
+    padding-left: 10px;
+    font-family: tahoma;
+    font-size: 40px;
+
+
+
+
+   
+
+}
+.box_element:hover{
+    cursor: pointer;
+    background-color: yellow;
+    color:goldenrod;
+
+
+
+}
+#box6{
+    position: absolute;
+    bottom: 0;
+
+}

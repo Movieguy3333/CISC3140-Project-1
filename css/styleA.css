@@ -1,0 +1,58 @@
+.box {
+    width:100%;
+    margin-left: 45%;
+    
+height: 100%;
+display: flex;
+
+flex-direction:column
+
+
+
+
+   
+
+
+
+
+   
+    
+}
+.box > span {
+    height:100px;
+    width:100px;
+    border-top: 1px #687291 solid;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 40px;
+    margin-top:10px;
+   
+    
+}
+#box1{
+    background-color:#dfe1e7;
+}
+#box2{
+    background-color:#eeeff2;
+    
+}
+#box3{
+    background-color:#dfe1e7;
+    
+}
+#box4{
+    background-color:#eeeff2;
+    
+}
+#box5{
+    background-color:#dfe1e7;
+    
+}
+#box6{
+    background-color:#687291;
+    border:4px black solid;
+    position: relative;
+    align-content: center;
+    right: 4px;
+}
+
